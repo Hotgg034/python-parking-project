@@ -1,0 +1,5 @@
+def park_car(spaces):
+    if spaces > 0:
+        return "Parked successfully"
+    return "No spaces available"
+
